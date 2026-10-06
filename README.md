@@ -1,5 +1,5 @@
-- GitHub: (5-2 끝나면 저장소 주소 입력)
-- Render: (5-3 끝나면 배포 주소 입력)
+- GitHub: https://github.com/khy242-sys/ledger-api
+- Render: https://ledger-api-rlk3.onrender.com/docs
 
 # 가계부 API (4주차 · PostgreSQL과 Supabase)
 
